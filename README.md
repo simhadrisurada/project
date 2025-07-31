@@ -25,14 +25,14 @@ A fun and interactive 2-player survival game built using **Python**, **Tkinter**
 ---
 
 ## 📂 Folder Structure
-📁 your-project/
-│
-├── game.py # Main game file (your script)
-├── README.md # Project description (this file)
-├── /assets/ # Store all image and audio files here
-│ ├── *.png
-│ ├── *.mp3
-│ └── *.wav
+- 📁 your-project/
+- │
+- ├── game.py # Main game file (your script)
+- ├── README.md # Project description (this file)
+- ├── /assets/ # Store all image and audio files here
+- │ ├── *.png
+- │ ├── *.mp3
+- │ └── *.wav
 
 
 ---
